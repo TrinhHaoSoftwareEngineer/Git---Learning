@@ -9,3 +9,5 @@
 - Mục tiêu: Học Git và GitHub
 
 Ngày tạo: 11/07/2026
+
+## Năm học: 2025-2026
